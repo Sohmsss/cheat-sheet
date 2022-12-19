@@ -1,6 +1,6 @@
 body {
   font-family: "Lucida Grande", sans-serif;
-  background-color: darkgrey;
+  background-color: rgb(33, 30, 49);
 }
 nav {
   display: inline-flex;
@@ -9,7 +9,7 @@ nav {
 h1 {
   display: inline;
   background-color: dimgrey;
-  color: lightgrey;
+  color: rgb(47, 196, 222);
   padding: 1em;
 }
 h2 {
@@ -24,8 +24,8 @@ h3 {
 }
 pre {
   font-family: "Lucida Sans Typewriter", monospace;
-  background-color: #1f2f2f;
-  color: greenyellow;
+  background-color: #30324f;
+  color: rgb(249, 91, 247);
 }
 ul li {
   display: inline-flex;
